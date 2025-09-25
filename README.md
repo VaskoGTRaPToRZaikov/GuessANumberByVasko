@@ -74,7 +74,7 @@ To run the game locally:
 
   Online Demo
   
-[Play Game](https://replit.com/@vaskozaikov/GuessANumberByVasko#guess_a_number.py)
+[<img alt="Play Game" src="https://github.com/user-attachments/assets/05919707-5ba1-4270-8dcc-0af505ab4527" />](https://replit.com/@vaskozaikov/GuessANumberByVasko#guess_a_number.py)
 
   Game Rules
 
