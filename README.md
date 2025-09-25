@@ -61,7 +61,7 @@ You can find the complete source code in the main Python file:
 <img width="331" height="160" alt="image" src="https://github.com/user-attachments/assets/d645505d-9d44-45a0-b4c2-f0957f0c0c84" />
 
 
-## 🚀 Live Demo
+  Live Demo
 
 To run the game locally:
 
@@ -73,7 +73,8 @@ To run the game locally:
 4. Play: Follow the on-screen instructions to play!
 
   Online Demo
-- [Replit](https://replit.com/)
+  
+[Play Game](https://replit.com/@vaskozaikov/GuessANumberByVasko#guess_a_number.py)
 
   Game Rules
 
